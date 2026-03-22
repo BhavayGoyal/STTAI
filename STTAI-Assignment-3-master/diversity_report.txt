@@ -1,0 +1,5 @@
+Self-BLEU Diversity Report (Lower scores indicate higher diversity)
+=================================================================
+Class: Positive   | Average Self-BLEU: 0.4987
+Class: Negative   | Average Self-BLEU: 0.4213
+Class: Neutral    | Average Self-BLEU: 0.2411
